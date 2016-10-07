@@ -8,11 +8,17 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug-IIS-Express|Any CPU = Debug-IIS-Express|Any CPU
+		Debug-IIS-Local|Any CPU = Debug-IIS-Local|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Debug-IIS-Express|Any CPU.ActiveCfg = Debug-IIS-Express|Any CPU
+		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Debug-IIS-Express|Any CPU.Build.0 = Debug-IIS-Express|Any CPU
+		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Debug-IIS-Local|Any CPU.ActiveCfg = Debug-IIS-Local|Any CPU
+		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Debug-IIS-Local|Any CPU.Build.0 = Debug-IIS-Local|Any CPU
 		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24E66B1-101A-40F6-9D98-8CD3A49521AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
